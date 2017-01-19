@@ -1,0 +1,18 @@
+http://localhost:53270/api/Customer/1345
+
+*** Note the 5 digit number in the URL will be unique for each person.
+    You will need to change the number when you run your Web API
+    for the first time. As an example my number is 53270
+
+GET
+
+Content-Type: application/json
+
+
+http://localhost:53270/api/Customer
+
+POST
+
+Content-Type: application/json
+
+<Body Empty>
