@@ -1,0 +1,60 @@
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll.config
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_01\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll.config
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_02\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll.config
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll.config
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch4\04_03\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll.config
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll.config
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.dll
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.xml
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Desktop\Exercise Files\Exercise Files\Ch4\ExploreCalifornia_final\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.pdb

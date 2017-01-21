@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Explore California</title>    
+</head>
+<body>                           
+    <input type="button" id="getTours" value="Get Tours" />         
+            <div id="tours" />                           
+            <script src="Scripts/jquery-1.10.2.min.js"></script>
+            <script>
+                $(function () {                    
+                       $.post('/api/tour', { Name: 'New Tour', Description: 'New tour created with Ajax POST', Length: 10, Price: 500, Rating: 'Easy' });
+
+                        $.ajax({
+                            url: '/api/tour/1',
+                            method: 'PUT',
+                            data: { Id: 2, Name: 'New Tour', Length: 10, Rating: 'Easy' }
+                        });
+
+                        $.ajax({
+                            url: '/api/tour/2',
+                            method: 'DELETE'
+                        });                    
+
+                    $('#getTours').click(function () {
+                        $.getJSON('/api/tour')
+                            .done(function (data) {
+                                $.each(data, function (index, tour) {
+                                    for (prop in tour) {
+                                        $('#tours').append(prop + ": " + tour[prop] + '<br />');
+                                    }
+                                    $('#tours').append('<br />');
+                                });
+                            });
+                    });
+                });
+            </script>
+</body>
+</html>

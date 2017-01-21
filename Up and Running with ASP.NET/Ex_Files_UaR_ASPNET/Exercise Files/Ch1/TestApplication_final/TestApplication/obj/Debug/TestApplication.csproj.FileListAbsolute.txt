@@ -1,0 +1,11 @@
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication\TestApplication\bin\TestApplication.dll.config
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication\TestApplication\bin\TestApplication.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication\TestApplication\bin\TestApplication.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication\TestApplication\obj\Debug\TestApplication.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication_final\TestApplication\bin\TestApplication.dll.config
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication_final\TestApplication\bin\TestApplication.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication_final\TestApplication\bin\TestApplication.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication_final\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication_final\TestApplication\obj\Debug\TestApplication.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch1\TestApplication_final\TestApplication\obj\Debug\TestApplication.pdb

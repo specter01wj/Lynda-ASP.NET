@@ -1,0 +1,109 @@
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\DatabaseFirst.dll.config
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\DatabaseFirst.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\DatabaseFirst.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Antlr3.Runtime.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\EntityFramework.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Newtonsoft.Json.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Owin.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.Helpers.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.Mvc.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.Optimization.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.Razor.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\WebGrease.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.Helpers.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.Mvc.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.Optimization.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.Razor.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Newtonsoft.Json.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Antlr3.Runtime.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\EntityFramework.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch3\03_03\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\DatabaseFirst.dll.config
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\DatabaseFirst.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\DatabaseFirst.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Antlr3.Runtime.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\EntityFramework.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Newtonsoft.Json.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Owin.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.Helpers.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.Mvc.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.Optimization.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.Razor.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\WebGrease.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.Helpers.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.Mvc.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.Optimization.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.Razor.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Newtonsoft.Json.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Antlr3.Runtime.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\EntityFramework.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csprojResolveAssemblyReference.cache
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch3\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb

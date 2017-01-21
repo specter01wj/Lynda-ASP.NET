@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ExploreCalifoniaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Rating">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Tours" Relationship="Self.FK_Tours_Ratings" FromRole="Ratings" ToRole="Tours" />
+  </EntityType>
+  <EntityType Name="Tour">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Length" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="RatingId" Type="Int32" Nullable="false" />
+    <Property Name="IncludesMeals" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Rating" Relationship="Self.FK_Tours_Ratings" FromRole="Tours" ToRole="Ratings" />
+  </EntityType>
+  <Association Name="FK_Tours_Ratings">
+    <End Role="Ratings" Type="Self.Rating" Multiplicity="1" />
+    <End Role="Tours" Type="Self.Tour" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ratings">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tours">
+        <PropertyRef Name="RatingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyDbContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ratings" EntityType="Self.Rating" />
+    <EntitySet Name="Tours" EntityType="Self.Tour" />
+    <AssociationSet Name="FK_Tours_Ratings" Association="Self.FK_Tours_Ratings">
+      <End Role="Ratings" EntitySet="Ratings" />
+      <End Role="Tours" EntitySet="Tours" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

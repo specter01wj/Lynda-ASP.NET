@@ -1,0 +1,190 @@
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll.config
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.pdb
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\WebGrease.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.pdb
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.pdb
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.xml
+C:\Users\msullivan\Desktop\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll.config
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\WebGrease.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch5\05_03\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll.config
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\WebGrease.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.pdb
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.dll
+C:\Users\msullivan\Dropbox\Lynda\Up and Running with ASP.NET\Exercise Files\Ch6\06_02\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.pdb
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll.config
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.pdb
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\WebGrease.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.pdb
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.pdb
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.csprojResolveAssemblyReference.cache
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.dll
+C:\Users\msullivan\Dropbox\Up and Running with ASP.NET\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll.config
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.API.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\WebGrease.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\ExploreCalifornia.DAL.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Newtonsoft.Json.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Helpers.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Mvc.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Optimization.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.Razor.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\bin\Antlr3.Runtime.pdb
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.csprojResolveAssemblyReference.cache
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.dll
+C:\Users\Michael Sullivan\Desktop\Exercise Files\Ch6\ExploreCalifornia_final\ExploreCalifornia.API\obj\Debug\ExploreCalifornia.API.pdb
